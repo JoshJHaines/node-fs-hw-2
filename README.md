@@ -11,7 +11,7 @@
 ## URLs and CRUD
 - [x] Using fs module inside createServer callback:
   
-- [ ] If request.url === “/create-directory” create a directory called content using fs method and it should log 'content folder created'
+- [x] If request.url === “/create-directory” create a directory called content using fs method and it should log 'content folder created'
   
 - [x] If request.url === “/create-text” create a file using fs method called randomText.txt that lives outside the content directory randomText.txt should be created using fs method and given just a short string of any data you want to put in it, using fs method when you create the randomText.txt file you should also log 'randomtext.txt created' in the terminal.
 
